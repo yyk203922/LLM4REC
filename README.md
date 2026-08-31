@@ -1,6 +1,6 @@
 # LLM4REC 
 
-快手探索者 LLM-Rec 挑战赛方案代码。我们基于官方 `OneReason-0.8B` 竞赛模型，围绕层级语义 ID（SID）的生成特点改造训练数据与监督目标，最终取得 **1.0357** 分，排名 **83 / 1205（Top 6.9%）**。
+快手探索者 LLM-Rec 挑战赛方案代码。我们基于官方 `OneReason-0.8B` 竞赛模型，围绕层级语义 ID（SID）的生成特点改造训练数据与监督目标，最终取得 **1.0357** 分，排名 **83 / 1205**。
 
 - 比赛主页：[快手探索者 LLM-Rec 挑战赛](https://ks-llmrec.streamlake.com/)
 - 官方资源：[Explorer_LLM_Rec_Competition](https://huggingface.co/datasets/OpenOneRec/Explorer_LLM_Rec_Competition)
