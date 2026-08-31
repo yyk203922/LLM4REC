@@ -84,6 +84,6 @@ python scripts/evaluate_sid_beam.py \
   --material-video-only
 ```
 
-该脚本按 domain prompt 续写三个 SID Token，并分别检查物料理解的 Beam-64 召回，以及推荐任务 no-think / two-stage Beam-32 的候选命中情况。它用于本地趋势判断，不等同于官方隐藏测试集得分。
+该脚本按 domain prompt 续写三个 SID Token，并分别检查物料理解的 Beam-64 召回，以及推荐任务 no-think / two-stage Beam-32 的候选命中情况。它用于本地趋势判断。
 
 
